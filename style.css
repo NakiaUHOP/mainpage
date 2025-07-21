@@ -23,7 +23,7 @@
 }
 
 /* Replace with your custom button images */
-.voices    { background-image: url('voices_button.png'); }
-.musicians { background-image: url('musicians_button.png'); }
-.directors { background-image: url('directors_button.png'); }
-.admin     { background-image: url('admin_button.png'); }
+.voices    { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/voices_button.png'); }
+.musicians { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/Musicians_button.png'); }
+.directors { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/Directors_button.png'); }
+.admin     { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/Admin_button.png'); }
