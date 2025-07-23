@@ -7,7 +7,7 @@
 }
 
 .key-button {
-  width: 200px;
+  width: 400px;
   height: 400px;
   background-size: cover;
   background-position: center;
@@ -26,4 +26,4 @@
 .voices    { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/voices_button.png'); }
 .musicians { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/musicians_button.png'); }
 .directors { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/Directors_button.png'); }
-.admin     { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/Admin_button.png'); }
+.admin     { background-image: url('https://raw.githubusercontent.com/NakiaUHOP/mainpage/main/admin_button.png'); }
